@@ -5,4 +5,4 @@ Given a dataset of tweets, a hashtag is chosen (#vampirebite) and its network is
 2. Betweenness Centrality
 3. Page Rank
 
-The network connectivity patterns are also explored using cliques. A clique in an undirected graph is a subset of the nodes, such that every two dierent nodes are adjacent (directly connected with an edge).
+The network connectivity patterns are also explored using cliques. A clique in an undirected graph is a subset of the nodes, such that every two different nodes are adjacent (directly connected with an edge).
